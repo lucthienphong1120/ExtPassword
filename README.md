@@ -4,8 +4,6 @@ Copyright (c) 2019 - 2022 Nir Sofer
 
 Web site: https://www.nirsoft.net/utils/external_drive_password_recovery.html
 
-
-
 Description
 ===========
 
@@ -21,11 +19,8 @@ This tool might be useful if you have a disk with Windows operating
 system that cannot boot anymore, but most files on this hard drive are
 still accessible and you need to extract your passwords from it.
 
-
-
 System Requirements And Limitations
 ===================================
-
 
 * This tool works with any version of Windows, starting from Windows XP
   and up to Windows 11. Both 32-bit and 64-bit systems are supported.
@@ -41,11 +36,8 @@ System Requirements And Limitations
   You may need to run ExtPassword! as Administrator (Ctrl+F11) in order
   to allow it to read the files.
 
-
-
 Supported Software And Features
 ===============================
-
 
 * Web Browsers: Chrome, Chrome Canary, Chromium, Microsoft Edge, Opera,
   Vivaldi, Yandex, Brave, Firefox, Sea Monkey, Pale Moon, Waterfox,
@@ -70,8 +62,6 @@ Supported Software And Features
   M$_MSV1_0_TBAL_PRIMARY_{22BE8E5B-58B3-4A87-BA71-41B0ECF3A9EA} ).
   Windows 10 creates this entry for the last user that turned off the
   computer.
-
-
 
 How to use ExtPassword!
 =======================
@@ -111,8 +101,6 @@ comma-delimited/tab-delimited/HTML/XML/JSON file. You can also copy the
 selected passwords to the clipboard (Ctrl+C) and then paste them into
 Excel or other spreadsheet application.
 
-
-
 Translating ExtPassword! to other languages
 ===========================================
 
@@ -133,8 +121,6 @@ instructions below:
    If you want to run ExtPassword! without the translation, simply rename
    the language file, or move it to another folder.
 
-
-
 License
 =======
 
@@ -145,8 +131,6 @@ distribute it as a part of commercial product. If you distribute this
 utility, you must include all files in the distribution package, without
 any modification !
 
-
-
 Disclaimer
 ==========
 
@@ -155,8 +139,6 @@ or implied, including, but not limited to, the implied warranties of
 merchantability and fitness for a particular purpose. The author will not
 be liable for any special, incidental, consequential or indirect damages
 due to loss of data or any other reason.
-
-
 
 Feedback
 ========
